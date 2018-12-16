@@ -1,0 +1,129 @@
+@charset "utf-8";
+.ustyazi {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #999;
+}
+.menuarka {
+	background-image: url(images/nav.jpg);
+	background-repeat: repeat;
+}
+
+
+.üstarka {
+	background-color: #000;
+}
+.menuarka a {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 21px;
+	color: #000;
+	text-decoration: none;
+}
+a:hover {
+	font-family: "MS Serif", "New York", serif;
+	color: #666;
+	text-decoration: underline;
+}
+.altkisimdolgurengi {
+	background-color: #000;
+}
+
+.ortayazi {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	color: #FF6612;
+	text-decoration: none;
+	text-align: center;
+}
+.ortayazisekli {
+	color: #999;
+	text-decoration: none;
+	text-align: justify;
+	font-size: 15px;
+}
+.ortayazi2 {
+	color: #666;
+}
+
+
+.dahafazlayazisi {
+	color: #FFF;
+	font-size: 16px;
+	text-decoration: none;
+}
+.menuarka {
+	background-image: url(images/nav.jpg);
+	background-repeat: repeat;
+}
+
+
+
+
+.arkaplankahve {
+	background-image: url(images/header-content.jpg);
+	background-repeat: repeat;
+}
+
+
+
+
+
+
+
+.logoyanicizgi {
+	color: #FFF;
+	font-size: 24px;
+	font-weight: bolder;
+	text-align: left;
+	vertical-align: middle;
+}
+.altbasliklar {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	color: #000;
+}
+
+.aracizgi {
+	background-image: url(images/border-1.jpg);
+	background-repeat: repeat-y;
+	background-position: center;
+}
+.sonhaberlink {
+	color: #E88800;
+	text-decoration: none;
+}
+.beyazyazi {
+	color: #FFF;
+	font-size: 16px;
+}
+.sariarka {
+	background-color: #F90;
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-weight: bold;
+}
+.beyazaracizgi {
+	background-image: url(images/border-2.gif);
+	background-repeat: repeat-y;
+	background-position: center;
+}
+.arkapln {
+	background-image: url(images/footer-arkaplan.jpg);
+	background-repeat: repeat;
+}
+.hizmetüstyazi {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.haber {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #000;
+	text-align: justify;
+}

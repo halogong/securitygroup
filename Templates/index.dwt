@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>güvenlik çözümleri</title>
+<!-- TemplateEndEditable -->
+<link href="../css.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%" border="0" cellpadding="6" cellspacing="0" class="üstarka">
+  <tr>
+    <td width="17%" height="105">&nbsp;</td>
+    <td width="22%"><a href="../index.html"><img src="../images/logo.png" width="249" height="43" /></a></td>
+    <td width="4%" align="left" valign="middle" class="logoyanicizgi">|</td>
+    <td width="15%" valign="middle" class="ustyazi">Özel Güvenlik Çözümleri</td>
+    <td width="2%">&nbsp;</td>
+    <td width="14%">&nbsp;</td>
+    <td width="3%"><a href="#"><img src="../images/icon-1.png" width="24" height="24" /></a></td>
+    <td width="3%"><a href="#"><img src="../images/icon-2.png" width="24" height="24" /></a></td>
+    <td width="20%"><a href="#"><img src="../images/icon-3.png" width="24" height="24" /></a></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <!-- TemplateBeginEditable name="EditRegion6" -->
+  <tr>
+    <td width="16%" class="üstarka">&nbsp;</td>
+    <td width="12%" rowspan="3" align="center" valign="middle" class="menuarka"><a href="../index.html">Ana Sayfa</a></td>
+    <td width="1%" rowspan="3" align="center" valign="middle" class="menuarka">|</td>
+    <td width="10%" rowspan="3" align="center" valign="middle" class="menuarka"><a href="../hizmetler.html">Hizmetler</a></td>
+    <td width="1%" rowspan="3" align="center" valign="middle" class="menuarka">|</td>
+    <td width="9%" rowspan="3" align="center" valign="middle" class="menuarka"><a href="../urunler.html">Ürünler</a></td>
+    <td width="1%" rowspan="3" align="center" valign="middle" class="menuarka">|</td>
+    <td width="10%" rowspan="3" align="center" valign="middle" class="menuarka"><a href="../hakkimizda.html">Haberler</a></td>
+    <td width="2%" rowspan="3" align="center" valign="middle" class="menuarka">|</td>
+    <td width="10%" rowspan="3" align="center" valign="middle" class="menuarka"><a href="../hakkimizda.html">Hakkımızda</a></td>
+    <td width="2%" rowspan="3" align="center" valign="middle" class="menuarka">|</td>
+    <td width="9%" rowspan="3" align="center" valign="middle" class="menuarka"><a href="../iletisim.html">İletişim</a></td>
+    <td width="17%" align="center" valign="middle" class="üstarka">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="28" class="üstarka">&nbsp;</td>
+    <td width="17%" align="center" valign="middle" class="üstarka">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="28" class="arkaplankahve">&nbsp;</td>
+    <td width="17%" align="center" valign="middle" class="arkaplankahve">&nbsp;</td>
+  </tr>
+  <!-- TemplateEndEditable -->
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="arkaplankahve">
+  <!-- TemplateBeginEditable name="EditRegion5" -->
+  <tr>
+    <td width="147">&nbsp;</td>
+    <td height="30" valign="top"><p class="menugolge">&nbsp;</p></td>
+    <td width="24">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td width="26">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td width="151">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td width="280" align="center"><img src="../images/page1-img1.jpg" width="280" height="119" /></td>
+    <td>&nbsp;</td>
+    <td width="280" align="center"><img src="../images/page1-img2.jpg" width="280" height="119" /></td>
+    <td align="center">&nbsp;</td>
+    <td width="280" align="center"><img src="../images/page1-img3.jpg" width="280" height="119" /></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="2"><p>&nbsp;</p>
+      <p>&nbsp;</p></td>
+    <td width="280" rowspan="2"><p align="justify" class="ortayazi">Ev için güvenlik sistemleri</p></td>
+    <td align="center" valign="middle">&nbsp;</td>
+    <td width="280" rowspan="2"><p class="ortayazi">Ofis için güvenlik sistemleri</p></td>
+    <td align="center">&nbsp;</td>
+    <td width="280" rowspan="2"><p class="ortayazi"> Özel güvenlik sistemleri</p></td>
+    <td rowspan="2">&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" class="aracizgi">&nbsp;</td>
+    <td align="center" class="aracizgi">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><p class="ortayazisekli">Alarm ile evinizi hırsızlık gi​bi kötü niyetli girişimlere  karşı önlem almış olacaksınız. Ücretsiz keşif sonrasında konutun yapısına göre  belirl​enen alarm sistemi her bir mekân için farklılık gösterebilir. Alarm  sistemi, abonelerin isteğine göre kablolu ya da kablosuz olarak seçilebilir</p></td>
+    <td align="center" class="aracizgi">&nbsp;</td>
+    <td valign="top"><p class="ortayazisekli">Alarm sistemi sayesinde iş yeri giriş ve çıkış (açılış ve  kapanış) saatlerini kolayca takip edebilir, raporlamalarını düzenli şekilde  alabilirsiniz. Çalışanlarınızın işten ayrılması durumunda şifrelerini iptal  ederek iş yeri güvenliğinizi tam olarak sağlayabilirsiniz.</p></td>
+    <td align="center" class="aracizgi">&nbsp;</td>
+    <td valign="top"><p class="ortayazisekli">Tam kapsamlı güvenlik, alarmdan kasaya, kilitten sigortaya,  pencere sistemlerinden kapıya vel elektronik sistemlere kadar tüm güvenlik  çözümlerini bir arada sunuyor.</p></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="3">&nbsp;</td>
+    <td rowspan="3" align="center" valign="top" class="dahafazlayazisi"><p><a href="../urunler.html" class="dahafazlayazisi">Daha Fazla</a></p>
+      <p>&nbsp;</p></td>
+    <td class="aracizgi">&nbsp;</td>
+    <td rowspan="3" align="center" valign="top" class="dahafazlayazisi"><p><a href="../urunler.html" class="dahafazlayazisi">Daha Fazla</a></p></td>
+    <td align="center" class="aracizgi">&nbsp;</td>
+    <td rowspan="3" align="center" valign="top" class="dahafazlayazisi"><p><a href="../urunler.html" class="dahafazlayazisi">Daha Fazla</a></p></td>
+    <td rowspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="aracizgi">&nbsp;</td>
+    <td align="center" class="aracizgi">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td align="center">&nbsp;</td>
+  </tr>
+  <!-- TemplateEndEditable -->
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="arkapln">
+  <!-- TemplateBeginEditable name="EditRegion4" -->
+  <tr>
+    <td width="15%" rowspan="17">&nbsp;</td>
+    <td width="20%" align="left" valign="top" class="altbasliklar"><p>Biz Kimiz ?</p></td>
+    <td width="4%" rowspan="17">&nbsp;</td>
+    <td width="21%">&nbsp;</td>
+    <td width="6%" rowspan="17">&nbsp;</td>
+    <td width="19%" class="altbasliklar">Son Haberler</td>
+    <td width="15%" rowspan="17">&nbsp;</td>
+  </tr>
+  <tr>
+    <td rowspan="8" valign="top"><img src="../images/page1-img4.jpg" width="240" height="151" /></td>
+    <td width="21%" rowspan="8" valign="top" class="ortayazisekli">Security Group, kuruluşundan bugüne 10 yılı aşkın sürede, güvenlik ve konfor alanında birçok teknolojiyi Türkiye ile ilk kez buluşturan bir teknoloji şirketidir. Günümüzde, güvenlik kamera çözümleri, hırsız alarm çözümleri ve alarm merkezi hizmetleri,  mobil takip ve güvenlik çözümleri, evde yaşam ve destek otomasyon çözümleri, olarak tanımlanan 3 ana konuda faaliyetlerini devam ettirmektedir. </td>
+    <td valign="top" class="ortayazisekli"><img src="../images/link-2.png" width="11" height="11" /> <span class="sonhaberlink"><a href="#" class="sonhaberlink">27.10.2018</a></span></td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td valign="top" class="ortayazisekli">Türkiye'nin 754. Resmi Ar-Ge Merkezi Olduk 2015 yılında başlattığımız &quot;Bir Teknoloji Şirketine Dönüşüm&quot; sürecimizin en önemli adımlarından birisini atmış olmanın gururunu yaşıyoruz.</td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td valign="middle" class="ortayazisekli">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="middle" class="ortayazisekli"><img src="../images/link-2.png" width="11" height="11" /> <span class="sonhaberlink"><a href="#" class="sonhaberlink">15.09.2018</a></span></td>
+  </tr>
+  <tr>
+    <td valign="top" class="ortayazisekli">15 Yıldır Akıllı ve Entegre Güvenlik Teknolojileri Geliştiriyoruz Kurulduğumuz günden bugüne kadar, işimize duyduğumuz heyecanı her zaman koruyarak, insanların güvenlik ve konforu için yeni teknolojiler üzerine çalışıyoruz. </td>
+  </tr>
+  <tr></tr>
+  <tr>
+    <td class="ortayazisekli"><hr /></td>
+    <td class="ortayazisekli"><hr /></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><span class="ortayazisekli"><img src="../images/list-1.gif" width="4" height="5" />Türkiye’nin İlk Kilit İhraç Eden Şirketi</span></td>
+    <td width="21%"><span class="ortayazisekli"><img src="../images/list-1.gif" width="4" height="5" />Yaşam alanlarınız güvende.</span></td>
+    <td><img src="../images/link-2.png" width="11" height="11" /> <a href="#" class="sonhaberlink">06.07.2018</a></td>
+  </tr>
+  <tr>
+    <td><p class="ortayazisekli">&nbsp;</p></td>
+    <td width="21%" class="ortayazisekli">&nbsp;</td>
+    <td rowspan="5" valign="top" class="ortayazisekli">Bildirimleriniz Anında Akıllı Saatinizde! Security 365 Cloud uygulamanızı sekronize edin ve anlık mobil bildirimleri akıllı saatinizden de alın. </td>
+  </tr>
+  <tr>
+    <td><span class="ortayazisekli"><img src="../images/list-1.gif" width="4" height="5" />Sektörde en çok tercih edilen marka.</span></td>
+    <td width="21%"><span class="ortayazisekli"><img src="../images/list-1.gif" width="4" height="5" />Kötü niyetli misafirlere geçit yok.</span></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td width="21%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td width="21%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td width="21%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td width="21%">&nbsp;</td>
+    <td><p>&nbsp;</p></td>
+  </tr>
+  <!-- TemplateEndEditable -->
+</table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="altkisimdolgurengi">
+  <!-- TemplateBeginEditable name="EditRegion3" -->
+  <tr>
+    <td align="center" valign="bottom"><p><span class="ortayazisekli">© 2018</span> <a href="../index.html" class="sonhaberlink">Security Group</a> <span class="ortayazisekli">Websitesi</span></p>
+      <p>&nbsp;</p></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><span class="ortayazisekli">Telefon: 0212 332 332  Email:</span> <a href="#" class="sonhaberlink">info@securitygroup.com</a></td>
+  </tr>
+  <!-- TemplateEndEditable -->
+</table>
+</body>
+</html>
